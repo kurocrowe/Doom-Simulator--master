@@ -23,3 +23,9 @@ Left Mouse Button - Shoot
 Admin Controls
 
 N- No clip
+
+
+
+Credits
+
+Stanley Huang- Main Developer & Designer
