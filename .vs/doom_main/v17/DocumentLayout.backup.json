@@ -1,0 +1,722 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fores\\OneDrive\\\u684C\u9762\\doom_main_final\\doom_main_dab\\doom_main_dab\\doom_main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC92D2ED-5878-4D4B-B658-C1D1CFBC9695}|doom_main\\doom_main.vcxproj|C:\\Users\\fores\\OneDrive\\\u684C\u9762\\doom_main_final\\doom_main_dab\\doom_main_dab\\doom_main\\doom_main\\engine.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BC92D2ED-5878-4D4B-B658-C1D1CFBC9695}|doom_main\\doom_main.vcxproj|solutionrelative:doom_main\\engine.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC92D2ED-5878-4D4B-B658-C1D1CFBC9695}|doom_main\\doom_main.vcxproj|C:\\Users\\fores\\OneDrive\\\u684C\u9762\\doom_main_final\\doom_main_dab\\doom_main_dab\\doom_main\\doom_main\\spritesys\\enemy_system.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BC92D2ED-5878-4D4B-B658-C1D1CFBC9695}|doom_main\\doom_main.vcxproj|solutionrelative:doom_main\\spritesys\\enemy_system.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC92D2ED-5878-4D4B-B658-C1D1CFBC9695}|doom_main\\doom_main.vcxproj|C:\\Users\\fores\\OneDrive\\\u684C\u9762\\doom_main_final\\doom_main_dab\\doom_main_dab\\doom_main\\doom_main\\spritesys\\weapon_system.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BC92D2ED-5878-4D4B-B658-C1D1CFBC9695}|doom_main\\doom_main.vcxproj|solutionrelative:doom_main\\spritesys\\weapon_system.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC92D2ED-5878-4D4B-B658-C1D1CFBC9695}|doom_main\\doom_main.vcxproj|C:\\Users\\fores\\OneDrive\\\u684C\u9762\\doom_main_final\\doom_main_dab\\doom_main_dab\\doom_main\\doom_main\\matrix.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BC92D2ED-5878-4D4B-B658-C1D1CFBC9695}|doom_main\\doom_main.vcxproj|solutionrelative:doom_main\\matrix.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC92D2ED-5878-4D4B-B658-C1D1CFBC9695}|doom_main\\doom_main.vcxproj|C:\\Users\\fores\\OneDrive\\\u684C\u9762\\doom_main_final\\doom_main_dab\\doom_main_dab\\doom_main\\doom_main\\matrix.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BC92D2ED-5878-4D4B-B658-C1D1CFBC9695}|doom_main\\doom_main.vcxproj|solutionrelative:doom_main\\matrix.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC92D2ED-5878-4D4B-B658-C1D1CFBC9695}|doom_main\\doom_main.vcxproj|C:\\Users\\fores\\OneDrive\\\u684C\u9762\\doom_main_final\\doom_main_dab\\doom_main_dab\\doom_main\\doom_main\\camera.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BC92D2ED-5878-4D4B-B658-C1D1CFBC9695}|doom_main\\doom_main.vcxproj|solutionrelative:doom_main\\camera.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC92D2ED-5878-4D4B-B658-C1D1CFBC9695}|doom_main\\doom_main.vcxproj|C:\\Users\\fores\\OneDrive\\\u684C\u9762\\doom_main_final\\doom_main_dab\\doom_main_dab\\doom_main\\doom_main\\engine.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BC92D2ED-5878-4D4B-B658-C1D1CFBC9695}|doom_main\\doom_main.vcxproj|solutionrelative:doom_main\\engine.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC92D2ED-5878-4D4B-B658-C1D1CFBC9695}|doom_main\\doom_main.vcxproj|C:\\Users\\fores\\OneDrive\\\u684C\u9762\\doom_main_final\\doom_main_dab\\doom_main_dab\\doom_main\\doom_main\\map.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BC92D2ED-5878-4D4B-B658-C1D1CFBC9695}|doom_main\\doom_main.vcxproj|solutionrelative:doom_main\\map.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC92D2ED-5878-4D4B-B658-C1D1CFBC9695}|doom_main\\doom_main.vcxproj|C:\\Users\\fores\\OneDrive\\\u684C\u9762\\doom_main_final\\doom_main_dab\\doom_main_dab\\doom_main\\doom_main\\map.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BC92D2ED-5878-4D4B-B658-C1D1CFBC9695}|doom_main\\doom_main.vcxproj|solutionrelative:doom_main\\map.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC92D2ED-5878-4D4B-B658-C1D1CFBC9695}|doom_main\\doom_main.vcxproj|C:\\Users\\fores\\OneDrive\\\u684C\u9762\\doom_main_final\\doom_main_dab\\doom_main_dab\\doom_main\\doom_main\\camera.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BC92D2ED-5878-4D4B-B658-C1D1CFBC9695}|doom_main\\doom_main.vcxproj|solutionrelative:doom_main\\camera.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC92D2ED-5878-4D4B-B658-C1D1CFBC9695}|doom_main\\doom_main.vcxproj|C:\\Users\\fores\\OneDrive\\\u684C\u9762\\doom_main_final\\doom_main_dab\\doom_main_dab\\doom_main\\doom_main\\spritesys\\weapon_system.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BC92D2ED-5878-4D4B-B658-C1D1CFBC9695}|doom_main\\doom_main.vcxproj|solutionrelative:doom_main\\spritesys\\weapon_system.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC92D2ED-5878-4D4B-B658-C1D1CFBC9695}|doom_main\\doom_main.vcxproj|C:\\Users\\fores\\OneDrive\\\u684C\u9762\\doom_main_final\\doom_main_dab\\doom_main_dab\\doom_main\\doom_main\\spritesys\\bullet_system.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BC92D2ED-5878-4D4B-B658-C1D1CFBC9695}|doom_main\\doom_main.vcxproj|solutionrelative:doom_main\\spritesys\\bullet_system.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC92D2ED-5878-4D4B-B658-C1D1CFBC9695}|doom_main\\doom_main.vcxproj|C:\\Users\\fores\\OneDrive\\\u684C\u9762\\doom_main_final\\doom_main_dab\\doom_main_dab\\doom_main\\doom_main\\spritesys\\bullet_system.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BC92D2ED-5878-4D4B-B658-C1D1CFBC9695}|doom_main\\doom_main.vcxproj|solutionrelative:doom_main\\spritesys\\bullet_system.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC92D2ED-5878-4D4B-B658-C1D1CFBC9695}|doom_main\\doom_main.vcxproj|C:\\Users\\fores\\OneDrive\\\u684C\u9762\\doom_main_final\\doom_main_dab\\doom_main_dab\\doom_main\\doom_main\\spritesys\\weapon.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{BC92D2ED-5878-4D4B-B658-C1D1CFBC9695}|doom_main\\doom_main.vcxproj|solutionrelative:doom_main\\spritesys\\weapon.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC92D2ED-5878-4D4B-B658-C1D1CFBC9695}|doom_main\\doom_main.vcxproj|C:\\Users\\fores\\OneDrive\\\u684C\u9762\\doom_main_final\\doom_main_dab\\doom_main_dab\\doom_main\\doom_main\\spritesys\\enemy_system.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BC92D2ED-5878-4D4B-B658-C1D1CFBC9695}|doom_main\\doom_main.vcxproj|solutionrelative:doom_main\\spritesys\\enemy_system.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC92D2ED-5878-4D4B-B658-C1D1CFBC9695}|doom_main\\doom_main.vcxproj|C:\\Users\\fores\\OneDrive\\\u684C\u9762\\doom_main_final\\doom_main_dab\\doom_main_dab\\doom_main\\doom_main\\spritesys\\shader.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BC92D2ED-5878-4D4B-B658-C1D1CFBC9695}|doom_main\\doom_main.vcxproj|solutionrelative:doom_main\\spritesys\\shader.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC92D2ED-5878-4D4B-B658-C1D1CFBC9695}|doom_main\\doom_main.vcxproj|C:\\Users\\fores\\OneDrive\\\u684C\u9762\\doom_main_final\\doom_main_dab\\doom_main_dab\\doom_main\\doom_main\\spritesys\\hud.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BC92D2ED-5878-4D4B-B658-C1D1CFBC9695}|doom_main\\doom_main.vcxproj|solutionrelative:doom_main\\spritesys\\hud.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC92D2ED-5878-4D4B-B658-C1D1CFBC9695}|doom_main\\doom_main.vcxproj|C:\\Users\\fores\\OneDrive\\\u684C\u9762\\doom_main_final\\doom_main_dab\\doom_main_dab\\doom_main\\doom_main\\spritesys\\weapon.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{BC92D2ED-5878-4D4B-B658-C1D1CFBC9695}|doom_main\\doom_main.vcxproj|solutionrelative:doom_main\\spritesys\\weapon.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC92D2ED-5878-4D4B-B658-C1D1CFBC9695}|doom_main\\doom_main.vcxproj|C:\\Users\\fores\\OneDrive\\\u684C\u9762\\doom_main_final\\doom_main_dab\\doom_main_dab\\doom_main\\doom_main\\stb.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BC92D2ED-5878-4D4B-B658-C1D1CFBC9695}|doom_main\\doom_main.vcxproj|solutionrelative:doom_main\\stb.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC92D2ED-5878-4D4B-B658-C1D1CFBC9695}|doom_main\\doom_main.vcxproj|C:\\Users\\fores\\OneDrive\\\u684C\u9762\\doom_main_final\\doom_main_dab\\doom_main_dab\\doom_main\\doom_main\\spritesys\\hud.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BC92D2ED-5878-4D4B-B658-C1D1CFBC9695}|doom_main\\doom_main.vcxproj|solutionrelative:doom_main\\spritesys\\hud.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC92D2ED-5878-4D4B-B658-C1D1CFBC9695}|doom_main\\doom_main.vcxproj|C:\\Users\\fores\\OneDrive\\\u684C\u9762\\doom_main_final\\doom_main_dab\\doom_main_dab\\doom_main\\doom_main\\spritesys\\shader.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BC92D2ED-5878-4D4B-B658-C1D1CFBC9695}|doom_main\\doom_main.vcxproj|solutionrelative:doom_main\\spritesys\\shader.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC92D2ED-5878-4D4B-B658-C1D1CFBC9695}|doom_main\\doom_main.vcxproj|C:\\Users\\fores\\OneDrive\\\u684C\u9762\\doom_main_final\\doom_main_dab\\doom_main_dab\\doom_main\\doom_main\\vector.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BC92D2ED-5878-4D4B-B658-C1D1CFBC9695}|doom_main\\doom_main.vcxproj|solutionrelative:doom_main\\vector.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC92D2ED-5878-4D4B-B658-C1D1CFBC9695}|doom_main\\doom_main.vcxproj|C:\\Users\\fores\\OneDrive\\\u684C\u9762\\doom_main_final\\doom_main_dab\\doom_main_dab\\doom_main\\doom_main\\flat_texture.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BC92D2ED-5878-4D4B-B658-C1D1CFBC9695}|doom_main\\doom_main.vcxproj|solutionrelative:doom_main\\flat_texture.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC92D2ED-5878-4D4B-B658-C1D1CFBC9695}|doom_main\\doom_main.vcxproj|C:\\Users\\fores\\OneDrive\\\u684C\u9762\\doom_main_final\\doom_main_dab\\doom_main_dab\\doom_main\\doom_main\\meshgen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BC92D2ED-5878-4D4B-B658-C1D1CFBC9695}|doom_main\\doom_main.vcxproj|solutionrelative:doom_main\\meshgen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC92D2ED-5878-4D4B-B658-C1D1CFBC9695}|doom_main\\doom_main.vcxproj|C:\\Users\\fores\\OneDrive\\\u684C\u9762\\doom_main_final\\doom_main_dab\\doom_main_dab\\doom_main\\doom_main\\vector.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BC92D2ED-5878-4D4B-B658-C1D1CFBC9695}|doom_main\\doom_main.vcxproj|solutionrelative:doom_main\\vector.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC92D2ED-5878-4D4B-B658-C1D1CFBC9695}|doom_main\\doom_main.vcxproj|C:\\Users\\fores\\OneDrive\\\u684C\u9762\\doom_main_final\\doom_main_dab\\doom_main_dab\\doom_main\\doom_main\\wad.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BC92D2ED-5878-4D4B-B658-C1D1CFBC9695}|doom_main\\doom_main.vcxproj|solutionrelative:doom_main\\wad.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC92D2ED-5878-4D4B-B658-C1D1CFBC9695}|doom_main\\doom_main.vcxproj|C:\\Users\\fores\\OneDrive\\\u684C\u9762\\doom_main_final\\doom_main_dab\\doom_main_dab\\doom_main\\doom_main\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BC92D2ED-5878-4D4B-B658-C1D1CFBC9695}|doom_main\\doom_main.vcxproj|solutionrelative:doom_main\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC92D2ED-5878-4D4B-B658-C1D1CFBC9695}|doom_main\\doom_main.vcxproj|C:\\Users\\fores\\OneDrive\\\u684C\u9762\\doom_main_final\\doom_main_dab\\doom_main_dab\\doom_main\\doom_main\\meshgen.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BC92D2ED-5878-4D4B-B658-C1D1CFBC9695}|doom_main\\doom_main.vcxproj|solutionrelative:doom_main\\meshgen.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC92D2ED-5878-4D4B-B658-C1D1CFBC9695}|doom_main\\doom_main.vcxproj|C:\\Users\\fores\\OneDrive\\\u684C\u9762\\doom_main_final\\doom_main_dab\\doom_main_dab\\doom_main\\doom_main\\start.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{BC92D2ED-5878-4D4B-B658-C1D1CFBC9695}|doom_main\\doom_main.vcxproj|solutionrelative:doom_main\\start.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC92D2ED-5878-4D4B-B658-C1D1CFBC9695}|doom_main\\doom_main.vcxproj|C:\\Users\\fores\\OneDrive\\\u684C\u9762\\doom_main_final\\doom_main_dab\\doom_main_dab\\doom_main\\doom_main\\renderer.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BC92D2ED-5878-4D4B-B658-C1D1CFBC9695}|doom_main\\doom_main.vcxproj|solutionrelative:doom_main\\renderer.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC92D2ED-5878-4D4B-B658-C1D1CFBC9695}|doom_main\\doom_main.vcxproj|C:\\Users\\fores\\OneDrive\\\u684C\u9762\\doom_main_final\\doom_main_dab\\doom_main_dab\\doom_main\\doom_main\\input.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BC92D2ED-5878-4D4B-B658-C1D1CFBC9695}|doom_main\\doom_main.vcxproj|solutionrelative:doom_main\\input.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC92D2ED-5878-4D4B-B658-C1D1CFBC9695}|doom_main\\doom_main.vcxproj|C:\\Users\\fores\\OneDrive\\\u684C\u9762\\doom_main_final\\doom_main_dab\\doom_main_dab\\doom_main\\doom_main\\input.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BC92D2ED-5878-4D4B-B658-C1D1CFBC9695}|doom_main\\doom_main.vcxproj|solutionrelative:doom_main\\input.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC92D2ED-5878-4D4B-B658-C1D1CFBC9695}|doom_main\\doom_main.vcxproj|C:\\Users\\fores\\OneDrive\\\u684C\u9762\\doom_main_final\\doom_main_dab\\doom_main_dab\\doom_main\\doom_main\\state.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BC92D2ED-5878-4D4B-B658-C1D1CFBC9695}|doom_main\\doom_main.vcxproj|solutionrelative:doom_main\\state.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC92D2ED-5878-4D4B-B658-C1D1CFBC9695}|doom_main\\doom_main.vcxproj|C:\\Users\\fores\\OneDrive\\\u684C\u9762\\doom_main_final\\doom_main_dab\\doom_main_dab\\doom_main\\doom_main\\gl_map.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BC92D2ED-5878-4D4B-B658-C1D1CFBC9695}|doom_main\\doom_main.vcxproj|solutionrelative:doom_main\\gl_map.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC92D2ED-5878-4D4B-B658-C1D1CFBC9695}|doom_main\\doom_main.vcxproj|C:\\Users\\fores\\OneDrive\\\u684C\u9762\\doom_main_final\\doom_main_dab\\doom_main_dab\\doom_main\\doom_main\\bsp.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BC92D2ED-5878-4D4B-B658-C1D1CFBC9695}|doom_main\\doom_main.vcxproj|solutionrelative:doom_main\\bsp.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC92D2ED-5878-4D4B-B658-C1D1CFBC9695}|doom_main\\doom_main.vcxproj|C:\\Users\\fores\\OneDrive\\\u684C\u9762\\doom_main_final\\doom_main_dab\\doom_main_dab\\doom_main\\doom_main\\util.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BC92D2ED-5878-4D4B-B658-C1D1CFBC9695}|doom_main\\doom_main.vcxproj|solutionrelative:doom_main\\util.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\fores\\OneDrive\\\u684C\u9762\\doom_main_final\\doom_main_dab\\doom_main_dab\\doom_main\\doom_main\\spritesys\\start.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:doom_main\\spritesys\\start.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\fores\\OneDrive\\\u684C\u9762\\doom_main_final\\doom_main_dab\\doom_main_dab\\doom_main\\doom_main\\spritesys\\texture_loader.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:doom_main\\spritesys\\texture_loader.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\fores\\OneDrive\\\u684C\u9762\\doom_main_final\\doom_main_dab\\doom_main_dab\\doom_main\\doom_main\\spritesys\\pistol.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:doom_main\\spritesys\\pistol.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\fores\\OneDrive\\\u684C\u9762\\doom_main_final\\doom_main_dab\\doom_main_dab\\doom_main\\doom_main\\spritesys\\shoot.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:doom_main\\spritesys\\shoot.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\fores\\OneDrive\\\u684C\u9762\\doom_main_final\\doom_main_dab\\doom_main_dab\\doom_main\\doom_main\\spritesys\\weapon_fire0.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:doom_main\\spritesys\\weapon_fire0.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\fores\\OneDrive\\\u684C\u9762\\doom_main_final\\doom_main_dab\\doom_main_dab\\doom_main\\doom_main\\spritesys\\weapon_fire0.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:doom_main\\spritesys\\weapon_fire0.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\fores\\OneDrive\\\u684C\u9762\\doom_main_final\\doom_main_dab\\doom_main_dab\\doom_main\\doom_main\\spritesys\\weapon_fire1.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:doom_main\\spritesys\\weapon_fire1.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "map.h",
+              "DocumentMoniker": "C:\\Users\\fores\\OneDrive\\\u684C\u9762\\doom_main_final\\doom_main_dab\\doom_main_dab\\doom_main\\doom_main\\map.h",
+              "RelativeDocumentMoniker": "doom_main\\map.h",
+              "ToolTip": "C:\\Users\\fores\\OneDrive\\\u684C\u9762\\doom_main_final\\doom_main_dab\\doom_main_dab\\doom_main\\doom_main\\map.h",
+              "RelativeToolTip": "doom_main\\map.h",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAEEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-16T14:36:05.856Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "vector.c",
+              "DocumentMoniker": "C:\\Users\\fores\\OneDrive\\\u684C\u9762\\doom_main_final\\doom_main_dab\\doom_main_dab\\doom_main\\doom_main\\vector.c",
+              "RelativeDocumentMoniker": "doom_main\\vector.c",
+              "ToolTip": "C:\\Users\\fores\\OneDrive\\\u684C\u9762\\doom_main_final\\doom_main_dab\\doom_main_dab\\doom_main\\doom_main\\vector.c",
+              "RelativeToolTip": "doom_main\\vector.c",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAswC8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-16T14:41:55.909Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "engine.h",
+              "DocumentMoniker": "C:\\Users\\fores\\OneDrive\\\u684C\u9762\\doom_main_final\\doom_main_dab\\doom_main_dab\\doom_main\\doom_main\\engine.h",
+              "RelativeDocumentMoniker": "doom_main\\engine.h",
+              "ToolTip": "C:\\Users\\fores\\OneDrive\\\u684C\u9762\\doom_main_final\\doom_main_dab\\doom_main_dab\\doom_main\\doom_main\\engine.h",
+              "RelativeToolTip": "doom_main\\engine.h",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-16T10:51:53.779Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "weapon_system.c",
+              "DocumentMoniker": "C:\\Users\\fores\\OneDrive\\\u684C\u9762\\doom_main_final\\doom_main_dab\\doom_main_dab\\doom_main\\doom_main\\spritesys\\weapon_system.c",
+              "RelativeDocumentMoniker": "doom_main\\spritesys\\weapon_system.c",
+              "ToolTip": "C:\\Users\\fores\\OneDrive\\\u684C\u9762\\doom_main_final\\doom_main_dab\\doom_main_dab\\doom_main\\doom_main\\spritesys\\weapon_system.c",
+              "RelativeToolTip": "doom_main\\spritesys\\weapon_system.c",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAFIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-18T10:20:39.069Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "enemy_system.c",
+              "DocumentMoniker": "C:\\Users\\fores\\OneDrive\\\u684C\u9762\\doom_main_final\\doom_main_dab\\doom_main_dab\\doom_main\\doom_main\\spritesys\\enemy_system.c",
+              "RelativeDocumentMoniker": "doom_main\\spritesys\\enemy_system.c",
+              "ToolTip": "C:\\Users\\fores\\OneDrive\\\u684C\u9762\\doom_main_final\\doom_main_dab\\doom_main_dab\\doom_main\\doom_main\\spritesys\\enemy_system.c",
+              "RelativeToolTip": "doom_main\\spritesys\\enemy_system.c",
+              "ViewState": "AgIAAKwAAAAAAAAAAAAkwMAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-18T10:19:27.579Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "engine.c",
+              "DocumentMoniker": "C:\\Users\\fores\\OneDrive\\\u684C\u9762\\doom_main_final\\doom_main_dab\\doom_main_dab\\doom_main\\doom_main\\engine.c",
+              "RelativeDocumentMoniker": "doom_main\\engine.c",
+              "ToolTip": "C:\\Users\\fores\\OneDrive\\\u684C\u9762\\doom_main_final\\doom_main_dab\\doom_main_dab\\doom_main\\doom_main\\engine.c",
+              "RelativeToolTip": "doom_main\\engine.c",
+              "ViewState": "AgIAAMcBAAAAAAAAAAAkwNMBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-16T10:06:12.098Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cf577b8c-4134-11d2-83e5-00c04f9902c1}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "shoot.jpg",
+              "DocumentMoniker": "C:\\Users\\fores\\OneDrive\\\u684C\u9762\\doom_main_final\\doom_main_dab\\doom_main_dab\\doom_main\\doom_main\\spritesys\\shoot.jpg",
+              "RelativeDocumentMoniker": "doom_main\\spritesys\\shoot.jpg",
+              "ToolTip": "C:\\Users\\fores\\OneDrive\\\u684C\u9762\\doom_main_final\\doom_main_dab\\doom_main_dab\\doom_main\\doom_main\\spritesys\\shoot.jpg",
+              "RelativeToolTip": "doom_main\\spritesys\\shoot.jpg",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-04-18T11:04:19.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "start.jpg",
+              "DocumentMoniker": "C:\\Users\\fores\\OneDrive\\\u684C\u9762\\doom_main_final\\doom_main_dab\\doom_main_dab\\doom_main\\doom_main\\spritesys\\start.jpg",
+              "RelativeDocumentMoniker": "doom_main\\spritesys\\start.jpg",
+              "ToolTip": "C:\\Users\\fores\\OneDrive\\\u684C\u9762\\doom_main_final\\doom_main_dab\\doom_main_dab\\doom_main\\doom_main\\spritesys\\start.jpg",
+              "RelativeToolTip": "doom_main\\spritesys\\start.jpg",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-04-18T11:04:39.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "weapon_fire0.jpg",
+              "DocumentMoniker": "C:\\Users\\fores\\OneDrive\\\u684C\u9762\\doom_main_final\\doom_main_dab\\doom_main_dab\\doom_main\\doom_main\\spritesys\\weapon_fire0.jpg",
+              "RelativeDocumentMoniker": "doom_main\\spritesys\\weapon_fire0.jpg",
+              "ToolTip": "C:\\Users\\fores\\OneDrive\\\u684C\u9762\\doom_main_final\\doom_main_dab\\doom_main_dab\\doom_main\\doom_main\\spritesys\\weapon_fire0.jpg",
+              "RelativeToolTip": "doom_main\\spritesys\\weapon_fire0.jpg",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-04-18T11:24:31.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "texture_loader.c",
+              "DocumentMoniker": "C:\\Users\\fores\\OneDrive\\\u684C\u9762\\doom_main_final\\doom_main_dab\\doom_main_dab\\doom_main\\doom_main\\spritesys\\texture_loader.c",
+              "RelativeDocumentMoniker": "doom_main\\spritesys\\texture_loader.c",
+              "ToolTip": "C:\\Users\\fores\\OneDrive\\\u684C\u9762\\doom_main_final\\doom_main_dab\\doom_main_dab\\doom_main\\doom_main\\spritesys\\texture_loader.c",
+              "RelativeToolTip": "doom_main\\spritesys\\texture_loader.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-18T10:49:13.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "weapon_fire0.png",
+              "DocumentMoniker": "C:\\Users\\fores\\OneDrive\\\u684C\u9762\\doom_main_final\\doom_main_dab\\doom_main_dab\\doom_main\\doom_main\\spritesys\\weapon_fire0.png",
+              "RelativeDocumentMoniker": "doom_main\\spritesys\\weapon_fire0.png",
+              "ToolTip": "C:\\Users\\fores\\OneDrive\\\u684C\u9762\\doom_main_final\\doom_main_dab\\doom_main_dab\\doom_main\\doom_main\\spritesys\\weapon_fire0.png",
+              "RelativeToolTip": "doom_main\\spritesys\\weapon_fire0.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-04-18T11:24:35.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "weapon_fire1.png",
+              "DocumentMoniker": "C:\\Users\\fores\\OneDrive\\\u684C\u9762\\doom_main_final\\doom_main_dab\\doom_main_dab\\doom_main\\doom_main\\spritesys\\weapon_fire1.png",
+              "RelativeDocumentMoniker": "doom_main\\spritesys\\weapon_fire1.png",
+              "ToolTip": "C:\\Users\\fores\\OneDrive\\\u684C\u9762\\doom_main_final\\doom_main_dab\\doom_main_dab\\doom_main\\doom_main\\spritesys\\weapon_fire1.png",
+              "RelativeToolTip": "doom_main\\spritesys\\weapon_fire1.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-04-18T11:24:39.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "pistol.jpg",
+              "DocumentMoniker": "C:\\Users\\fores\\OneDrive\\\u684C\u9762\\doom_main_final\\doom_main_dab\\doom_main_dab\\doom_main\\doom_main\\spritesys\\pistol.jpg",
+              "RelativeDocumentMoniker": "doom_main\\spritesys\\pistol.jpg",
+              "ToolTip": "C:\\Users\\fores\\OneDrive\\\u684C\u9762\\doom_main_final\\doom_main_dab\\doom_main_dab\\doom_main\\doom_main\\spritesys\\pistol.jpg",
+              "RelativeToolTip": "doom_main\\spritesys\\pistol.jpg",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-04-18T11:00:16.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "matrix.c",
+              "DocumentMoniker": "C:\\Users\\fores\\OneDrive\\\u684C\u9762\\doom_main_final\\doom_main_dab\\doom_main_dab\\doom_main\\doom_main\\matrix.c",
+              "RelativeDocumentMoniker": "doom_main\\matrix.c",
+              "ToolTip": "C:\\Users\\fores\\OneDrive\\\u684C\u9762\\doom_main_final\\doom_main_dab\\doom_main_dab\\doom_main\\doom_main\\matrix.c",
+              "RelativeToolTip": "doom_main\\matrix.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-18T15:24:29.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "matrix.h",
+              "DocumentMoniker": "C:\\Users\\fores\\OneDrive\\\u684C\u9762\\doom_main_final\\doom_main_dab\\doom_main_dab\\doom_main\\doom_main\\matrix.h",
+              "RelativeDocumentMoniker": "doom_main\\matrix.h",
+              "ToolTip": "C:\\Users\\fores\\OneDrive\\\u684C\u9762\\doom_main_final\\doom_main_dab\\doom_main_dab\\doom_main\\doom_main\\matrix.h",
+              "RelativeToolTip": "doom_main\\matrix.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-18T15:22:10.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "camera.c",
+              "DocumentMoniker": "C:\\Users\\fores\\OneDrive\\\u684C\u9762\\doom_main_final\\doom_main_dab\\doom_main_dab\\doom_main\\doom_main\\camera.c",
+              "RelativeDocumentMoniker": "doom_main\\camera.c",
+              "ToolTip": "C:\\Users\\fores\\OneDrive\\\u684C\u9762\\doom_main_final\\doom_main_dab\\doom_main_dab\\doom_main\\doom_main\\camera.c",
+              "RelativeToolTip": "doom_main\\camera.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-18T14:33:56.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "weapon_system.h",
+              "DocumentMoniker": "C:\\Users\\fores\\OneDrive\\\u684C\u9762\\doom_main_final\\doom_main_dab\\doom_main_dab\\doom_main\\doom_main\\spritesys\\weapon_system.h",
+              "RelativeDocumentMoniker": "doom_main\\spritesys\\weapon_system.h",
+              "ToolTip": "C:\\Users\\fores\\OneDrive\\\u684C\u9762\\doom_main_final\\doom_main_dab\\doom_main_dab\\doom_main\\doom_main\\spritesys\\weapon_system.h",
+              "RelativeToolTip": "doom_main\\spritesys\\weapon_system.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-18T10:21:19.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "map.c",
+              "DocumentMoniker": "C:\\Users\\fores\\OneDrive\\\u684C\u9762\\doom_main_final\\doom_main_dab\\doom_main_dab\\doom_main\\doom_main\\map.c",
+              "RelativeDocumentMoniker": "doom_main\\map.c",
+              "ToolTip": "C:\\Users\\fores\\OneDrive\\\u684C\u9762\\doom_main_final\\doom_main_dab\\doom_main_dab\\doom_main\\doom_main\\map.c",
+              "RelativeToolTip": "doom_main\\map.c",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-16T14:38:56.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "camera.h",
+              "DocumentMoniker": "C:\\Users\\fores\\OneDrive\\\u684C\u9762\\doom_main_final\\doom_main_dab\\doom_main_dab\\doom_main\\doom_main\\camera.h",
+              "RelativeDocumentMoniker": "doom_main\\camera.h",
+              "ToolTip": "C:\\Users\\fores\\OneDrive\\\u684C\u9762\\doom_main_final\\doom_main_dab\\doom_main_dab\\doom_main\\doom_main\\camera.h",
+              "RelativeToolTip": "doom_main\\camera.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-18T14:34:00.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "bullet_system.h",
+              "DocumentMoniker": "C:\\Users\\fores\\OneDrive\\\u684C\u9762\\doom_main_final\\doom_main_dab\\doom_main_dab\\doom_main\\doom_main\\spritesys\\bullet_system.h",
+              "RelativeDocumentMoniker": "doom_main\\spritesys\\bullet_system.h",
+              "ToolTip": "C:\\Users\\fores\\OneDrive\\\u684C\u9762\\doom_main_final\\doom_main_dab\\doom_main_dab\\doom_main\\doom_main\\spritesys\\bullet_system.h",
+              "RelativeToolTip": "doom_main\\spritesys\\bullet_system.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-18T10:19:24.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "bullet_system.c",
+              "DocumentMoniker": "C:\\Users\\fores\\OneDrive\\\u684C\u9762\\doom_main_final\\doom_main_dab\\doom_main_dab\\doom_main\\doom_main\\spritesys\\bullet_system.c",
+              "RelativeDocumentMoniker": "doom_main\\spritesys\\bullet_system.c",
+              "ToolTip": "C:\\Users\\fores\\OneDrive\\\u684C\u9762\\doom_main_final\\doom_main_dab\\doom_main_dab\\doom_main\\doom_main\\spritesys\\bullet_system.c",
+              "RelativeToolTip": "doom_main\\spritesys\\bullet_system.c",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAEQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-18T10:18:37.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "weapon.jpg",
+              "DocumentMoniker": "C:\\Users\\fores\\OneDrive\\\u684C\u9762\\doom_main_final\\doom_main_dab\\doom_main_dab\\doom_main\\doom_main\\spritesys\\weapon.jpg",
+              "RelativeDocumentMoniker": "doom_main\\spritesys\\weapon.jpg",
+              "ToolTip": "C:\\Users\\fores\\OneDrive\\\u684C\u9762\\doom_main_final\\doom_main_dab\\doom_main_dab\\doom_main\\doom_main\\spritesys\\weapon.jpg",
+              "RelativeToolTip": "doom_main\\spritesys\\weapon.jpg",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-04-18T10:48:07.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "shader.c",
+              "DocumentMoniker": "C:\\Users\\fores\\OneDrive\\\u684C\u9762\\doom_main_final\\doom_main_dab\\doom_main_dab\\doom_main\\doom_main\\spritesys\\shader.c",
+              "RelativeDocumentMoniker": "doom_main\\spritesys\\shader.c",
+              "ToolTip": "C:\\Users\\fores\\OneDrive\\\u684C\u9762\\doom_main_final\\doom_main_dab\\doom_main_dab\\doom_main\\doom_main\\spritesys\\shader.c",
+              "RelativeToolTip": "doom_main\\spritesys\\shader.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-18T10:20:37.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "enemy_system.h",
+              "DocumentMoniker": "C:\\Users\\fores\\OneDrive\\\u684C\u9762\\doom_main_final\\doom_main_dab\\doom_main_dab\\doom_main\\doom_main\\spritesys\\enemy_system.h",
+              "RelativeDocumentMoniker": "doom_main\\spritesys\\enemy_system.h",
+              "ToolTip": "C:\\Users\\fores\\OneDrive\\\u684C\u9762\\doom_main_final\\doom_main_dab\\doom_main_dab\\doom_main\\doom_main\\spritesys\\enemy_system.h",
+              "RelativeToolTip": "doom_main\\spritesys\\enemy_system.h",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-18T10:20:11.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "hud.c",
+              "DocumentMoniker": "C:\\Users\\fores\\OneDrive\\\u684C\u9762\\doom_main_final\\doom_main_dab\\doom_main_dab\\doom_main\\doom_main\\spritesys\\hud.c",
+              "RelativeDocumentMoniker": "doom_main\\spritesys\\hud.c",
+              "ToolTip": "C:\\Users\\fores\\OneDrive\\\u684C\u9762\\doom_main_final\\doom_main_dab\\doom_main_dab\\doom_main\\doom_main\\spritesys\\hud.c",
+              "RelativeToolTip": "doom_main\\spritesys\\hud.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-18T10:20:09.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "weapon.png",
+              "DocumentMoniker": "C:\\Users\\fores\\OneDrive\\\u684C\u9762\\doom_main_final\\doom_main_dab\\doom_main_dab\\doom_main\\doom_main\\spritesys\\weapon.png",
+              "RelativeDocumentMoniker": "doom_main\\spritesys\\weapon.png",
+              "ToolTip": "C:\\Users\\fores\\OneDrive\\\u684C\u9762\\doom_main_final\\doom_main_dab\\doom_main_dab\\doom_main\\doom_main\\spritesys\\weapon.png",
+              "RelativeToolTip": "doom_main\\spritesys\\weapon.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-04-18T10:55:36.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "shader.h",
+              "DocumentMoniker": "C:\\Users\\fores\\OneDrive\\\u684C\u9762\\doom_main_final\\doom_main_dab\\doom_main_dab\\doom_main\\doom_main\\spritesys\\shader.h",
+              "RelativeDocumentMoniker": "doom_main\\spritesys\\shader.h",
+              "ToolTip": "C:\\Users\\fores\\OneDrive\\\u684C\u9762\\doom_main_final\\doom_main_dab\\doom_main_dab\\doom_main\\doom_main\\spritesys\\shader.h",
+              "RelativeToolTip": "doom_main\\spritesys\\shader.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-18T10:20:37.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "hud.h",
+              "DocumentMoniker": "C:\\Users\\fores\\OneDrive\\\u684C\u9762\\doom_main_final\\doom_main_dab\\doom_main_dab\\doom_main\\doom_main\\spritesys\\hud.h",
+              "RelativeDocumentMoniker": "doom_main\\spritesys\\hud.h",
+              "ToolTip": "C:\\Users\\fores\\OneDrive\\\u684C\u9762\\doom_main_final\\doom_main_dab\\doom_main_dab\\doom_main\\doom_main\\spritesys\\hud.h",
+              "RelativeToolTip": "doom_main\\spritesys\\hud.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-18T10:20:33.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "stb.h",
+              "DocumentMoniker": "C:\\Users\\fores\\OneDrive\\\u684C\u9762\\doom_main_final\\doom_main_dab\\doom_main_dab\\doom_main\\doom_main\\stb.h",
+              "RelativeDocumentMoniker": "doom_main\\stb.h",
+              "ToolTip": "C:\\Users\\fores\\OneDrive\\\u684C\u9762\\doom_main_final\\doom_main_dab\\doom_main_dab\\doom_main\\doom_main\\stb.h",
+              "RelativeToolTip": "doom_main\\stb.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-16T12:36:37.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "vector.h",
+              "DocumentMoniker": "C:\\Users\\fores\\OneDrive\\\u684C\u9762\\doom_main_final\\doom_main_dab\\doom_main_dab\\doom_main\\doom_main\\vector.h",
+              "RelativeDocumentMoniker": "doom_main\\vector.h",
+              "ToolTip": "C:\\Users\\fores\\OneDrive\\\u684C\u9762\\doom_main_final\\doom_main_dab\\doom_main_dab\\doom_main\\doom_main\\vector.h",
+              "RelativeToolTip": "doom_main\\vector.h",
+              "ViewState": "AgIAABAAAAAAAAAAAABBwC8AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-16T14:42:55.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "flat_texture.h",
+              "DocumentMoniker": "C:\\Users\\fores\\OneDrive\\\u684C\u9762\\doom_main_final\\doom_main_dab\\doom_main_dab\\doom_main\\doom_main\\flat_texture.h",
+              "RelativeDocumentMoniker": "doom_main\\flat_texture.h",
+              "ToolTip": "C:\\Users\\fores\\OneDrive\\\u684C\u9762\\doom_main_final\\doom_main_dab\\doom_main_dab\\doom_main\\doom_main\\flat_texture.h",
+              "RelativeToolTip": "doom_main\\flat_texture.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-18T04:23:59.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "input.h",
+              "DocumentMoniker": "C:\\Users\\fores\\OneDrive\\\u684C\u9762\\doom_main_final\\doom_main_dab\\doom_main_dab\\doom_main\\doom_main\\input.h",
+              "RelativeDocumentMoniker": "doom_main\\input.h",
+              "ToolTip": "C:\\Users\\fores\\OneDrive\\\u684C\u9762\\doom_main_final\\doom_main_dab\\doom_main_dab\\doom_main\\doom_main\\input.h",
+              "RelativeToolTip": "doom_main\\input.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-16T11:05:57.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "meshgen.h",
+              "DocumentMoniker": "C:\\Users\\fores\\OneDrive\\\u684C\u9762\\doom_main_final\\doom_main_dab\\doom_main_dab\\doom_main\\doom_main\\meshgen.h",
+              "RelativeDocumentMoniker": "doom_main\\meshgen.h",
+              "ToolTip": "C:\\Users\\fores\\OneDrive\\\u684C\u9762\\doom_main_final\\doom_main_dab\\doom_main_dab\\doom_main\\doom_main\\meshgen.h",
+              "RelativeToolTip": "doom_main\\meshgen.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-16T10:14:38.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "input.c",
+              "DocumentMoniker": "C:\\Users\\fores\\OneDrive\\\u684C\u9762\\doom_main_final\\doom_main_dab\\doom_main_dab\\doom_main\\doom_main\\input.c",
+              "RelativeDocumentMoniker": "doom_main\\input.c",
+              "ToolTip": "C:\\Users\\fores\\OneDrive\\\u684C\u9762\\doom_main_final\\doom_main_dab\\doom_main_dab\\doom_main\\doom_main\\input.c",
+              "RelativeToolTip": "doom_main\\input.c",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-16T11:05:14.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "state.h",
+              "DocumentMoniker": "C:\\Users\\fores\\OneDrive\\\u684C\u9762\\doom_main_final\\doom_main_dab\\doom_main_dab\\doom_main\\doom_main\\state.h",
+              "RelativeDocumentMoniker": "doom_main\\state.h",
+              "ToolTip": "C:\\Users\\fores\\OneDrive\\\u684C\u9762\\doom_main_final\\doom_main_dab\\doom_main_dab\\doom_main\\doom_main\\state.h",
+              "RelativeToolTip": "doom_main\\state.h",
+              "ViewState": "AgIAAAoAAAAAAAAAAAASwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-16T10:23:33.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "wad.h",
+              "DocumentMoniker": "C:\\Users\\fores\\OneDrive\\\u684C\u9762\\doom_main_final\\doom_main_dab\\doom_main_dab\\doom_main\\doom_main\\wad.h",
+              "RelativeDocumentMoniker": "doom_main\\wad.h",
+              "ToolTip": "C:\\Users\\fores\\OneDrive\\\u684C\u9762\\doom_main_final\\doom_main_dab\\doom_main_dab\\doom_main\\doom_main\\wad.h",
+              "RelativeToolTip": "doom_main\\wad.h",
+              "ViewState": "AgIAABMAAAAAAAAAAAAvwB0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-16T10:32:15.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\fores\\OneDrive\\\u684C\u9762\\doom_main_final\\doom_main_dab\\doom_main_dab\\doom_main\\doom_main\\main.c",
+              "RelativeDocumentMoniker": "doom_main\\main.c",
+              "ToolTip": "C:\\Users\\fores\\OneDrive\\\u684C\u9762\\doom_main_final\\doom_main_dab\\doom_main_dab\\doom_main\\doom_main\\main.c",
+              "RelativeToolTip": "doom_main\\main.c",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-16T11:35:45.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "renderer.c",
+              "DocumentMoniker": "C:\\Users\\fores\\OneDrive\\\u684C\u9762\\doom_main_final\\doom_main_dab\\doom_main_dab\\doom_main\\doom_main\\renderer.c",
+              "RelativeDocumentMoniker": "doom_main\\renderer.c",
+              "ToolTip": "C:\\Users\\fores\\OneDrive\\\u684C\u9762\\doom_main_final\\doom_main_dab\\doom_main_dab\\doom_main\\doom_main\\renderer.c",
+              "RelativeToolTip": "doom_main\\renderer.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-16T11:07:51.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "meshgen.c",
+              "DocumentMoniker": "C:\\Users\\fores\\OneDrive\\\u684C\u9762\\doom_main_final\\doom_main_dab\\doom_main_dab\\doom_main\\doom_main\\meshgen.c",
+              "RelativeDocumentMoniker": "doom_main\\meshgen.c",
+              "ToolTip": "C:\\Users\\fores\\OneDrive\\\u684C\u9762\\doom_main_final\\doom_main_dab\\doom_main_dab\\doom_main\\doom_main\\meshgen.c",
+              "RelativeToolTip": "doom_main\\meshgen.c",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAswHUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-16T10:14:33.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "start.jpg",
+              "DocumentMoniker": "C:\\Users\\fores\\OneDrive\\\u684C\u9762\\doom_main_final\\doom_main_dab\\doom_main_dab\\doom_main\\doom_main\\start.jpg",
+              "RelativeDocumentMoniker": "doom_main\\start.jpg",
+              "ToolTip": "C:\\Users\\fores\\OneDrive\\\u684C\u9762\\doom_main_final\\doom_main_dab\\doom_main_dab\\doom_main\\doom_main\\start.jpg",
+              "RelativeToolTip": "doom_main\\start.jpg",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-04-16T13:53:51.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "gl_map.h",
+              "DocumentMoniker": "C:\\Users\\fores\\OneDrive\\\u684C\u9762\\doom_main_final\\doom_main_dab\\doom_main_dab\\doom_main\\doom_main\\gl_map.h",
+              "RelativeDocumentMoniker": "doom_main\\gl_map.h",
+              "ToolTip": "C:\\Users\\fores\\OneDrive\\\u684C\u9762\\doom_main_final\\doom_main_dab\\doom_main_dab\\doom_main\\doom_main\\gl_map.h",
+              "RelativeToolTip": "doom_main\\gl_map.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-16T10:28:06.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "bsp.h",
+              "DocumentMoniker": "C:\\Users\\fores\\OneDrive\\\u684C\u9762\\doom_main_final\\doom_main_dab\\doom_main_dab\\doom_main\\doom_main\\bsp.h",
+              "RelativeDocumentMoniker": "doom_main\\bsp.h",
+              "ToolTip": "C:\\Users\\fores\\OneDrive\\\u684C\u9762\\doom_main_final\\doom_main_dab\\doom_main_dab\\doom_main\\doom_main\\bsp.h",
+              "RelativeToolTip": "doom_main\\bsp.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-16T10:34:01.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "util.c",
+              "DocumentMoniker": "C:\\Users\\fores\\OneDrive\\\u684C\u9762\\doom_main_final\\doom_main_dab\\doom_main_dab\\doom_main\\doom_main\\util.c",
+              "RelativeDocumentMoniker": "doom_main\\util.c",
+              "ToolTip": "C:\\Users\\fores\\OneDrive\\\u684C\u9762\\doom_main_final\\doom_main_dab\\doom_main_dab\\doom_main\\doom_main\\util.c",
+              "RelativeToolTip": "doom_main\\util.c",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAkwF0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-16T10:05:50.654Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

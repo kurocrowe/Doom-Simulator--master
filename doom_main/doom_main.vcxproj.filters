@@ -1,0 +1,245 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="anim.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="camera.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="engine.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="flat_texture.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="gl_helpers.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="input.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="main.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="map.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="matrix.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="mesh.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="meshgen.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="palette.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="renderer.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="util.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="vector.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="wad.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="wall_texture.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="glad.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="spritesys\bullet_system.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="spritesys\enemy_system.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="spritesys\hud.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="spritesys\shader.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="spritesys\weapon_system.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="anim.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="camera.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="dynarray.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="engine.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="flat_texture.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="gl_helpers.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="gl_map.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="input.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="map.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="matrix.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="meshgen.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="palette.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="patch.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="state.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="renderer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="util.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="vector.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="wad.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="wall_texture.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="mesh.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\glad\KHR\khrplatform.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\glad\glad.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\GLFW\glfw3.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\GLFW\glfw3native.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="bsp.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="stb_image.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\GLFW\stb\stb_image.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="stb.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="spritesys\bullet_system.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="spritesys\enemy_system.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="spritesys\hud.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="spritesys\shader.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="spritesys\weapon_system.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include=".clang-format" />
+    <None Include=".gitignore" />
+    <None Include="compile_commands.json" />
+    <None Include="doom1.wad" />
+    <None Include="Makefile" />
+    <None Include="glfw3.dll" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="doom_main1.rc">
+      <Filter>Resource Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Library Include="lib\GLFW\glfw3.lib" />
+    <Library Include="lib\GLFW\glfw3_mt.lib" />
+    <Library Include="lib\GLFW\glfw3dll.lib" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="start_button.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="pause.jpg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="pausehover.jpg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="resume_button.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="resume_button_hover.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="start.jpg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="start_button_hover.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="starthover.jpg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="spritesys\weapon.jpg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="spritesys\weapon.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="spritesys\monster_idle0.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+  </ItemGroup>
+</Project>
